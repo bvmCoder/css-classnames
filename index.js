@@ -68,4 +68,4 @@
 		window.ClassNames = ClassNames;
 	}    
 
-}());
+})();
